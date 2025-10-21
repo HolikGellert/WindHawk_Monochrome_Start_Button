@@ -7,9 +7,9 @@ The purpose of this project is to have a custom **Start Button** with **[Translu
 
 ![Preview 1](Images/StartButtonFullWhite.png)
 
-![Preview 2](StartButtonFullWhite_1.png)
+![Preview 2](Images/StartButtonFullWhite_1.png)
 
-![Preview 3](StartButtonFullWhite_2.png)
+![Preview 3](Images/StartButtonFullWhite_2.png)
 
 ## Features
 
