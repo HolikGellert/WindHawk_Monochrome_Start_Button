@@ -34,13 +34,13 @@ The purpose of this project is to have a custom **Start Button** with **[Translu
 
 3. Place your custom Start button images in a folder and update the paths in the `.json` file: (Or use the provided images)
 
-  ```json
+  ```
   ImageSource='YOUR_DRIVE\\YOUR_PATH_HERE\\StartButtonFullWhite.png'
   ```
 
   For example:
 
-  ```json
+  ```
   ImageSource='C:\\Pictures\\Start_Menu_Icons\\StartButtonFullWhite.png'
   ```
 
@@ -78,6 +78,7 @@ The purpose of this project is to have a custom **Start Button** with **[Translu
 
 > [!TIP]
 > Customizing the **Taskbar**: Open the **Settings** menu. Under the **Theme** settings, choose **"None"** or whatever you want. Click **Save settings**
+> 
 > For **TranslucentTB** or other **Taskbar Modifier** programs aside from **Windhawk's Windows 11 Taskbar Styler**, it is recommended to choose **"None"** as a theme.
 
 ## File Structure
