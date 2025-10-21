@@ -1,14 +1,14 @@
 {
 	"controlStyles[0].target": "Taskbar.ExperienceToggleButton#LaunchListButton[AutomationProperties.AutomationId=StartButton] > Taskbar.TaskListButtonPanel@CommonStates > Border#BackgroundElement",
-	"controlStyles[0].styles[0]": "Background@InactiveNormal:=<ImageBrush Stretch=\"None\" AlignmentY='Center' AlignmentX='Center' ImageSource='C:\\Pictures\\Icons\\StartMenu_Icons\\StartButtonFullWhite.png' />",
+	"controlStyles[0].styles[0]": "Background@InactiveNormal:=<ImageBrush Stretch=\"None\" AlignmentY='Center' AlignmentX='Center' ImageSource='YOUR_DRIVE\\YOUR_PATH_HERE\\StartButtonFullWhite.png' />",
 	"controlStyles[1].target": "Taskbar.ExperienceToggleButton#LaunchListButton[AutomationProperties.AutomationId=StartButton] > Taskbar.TaskListButtonPanel > Microsoft.UI.Xaml.Controls.AnimatedVisualPlayer#Icon",
 	"controlStyles[1].styles[0]": "Visibility=Collapsed",
-	"controlStyles[0].styles[1]": "Background@InactivePointerOver:=<ImageBrush Stretch=\"None\" AlignmentY='Center' AlignmentX='Center' ImageSource='C:\\Pictures\\Icons\\StartMenu_Icons\\StartButtonFullWhite_1.png' />",
-	"controlStyles[0].styles[2]": "Background@InactivePressed:=<ImageBrush Stretch=\"None\" AlignmentY='Center' AlignmentX='Center' ImageSource='C:\\Pictures\\Icons\\StartMenu_Icons\\StartButtonFullWhite_2.png' />",
+	"controlStyles[0].styles[1]": "Background@InactivePointerOver:=<ImageBrush Stretch=\"None\" AlignmentY='Center' AlignmentX='Center' ImageSource='YOUR_DRIVE\\YOUR_PATH_HERE\\StartButtonFullWhite_1.png' />",
+	"controlStyles[0].styles[2]": "Background@InactivePressed:=<ImageBrush Stretch=\"None\" AlignmentY='Center' AlignmentX='Center' ImageSource='YOUR_DRIVE\\YOUR_PATH_HERE\\StartButtonFullWhite_2.png' />",
 	"controlStyles[2].target": "Taskbar.TaskListButtonPanel#ExperienceToggleButtonRootPanel",
 	"controlStyles[2].styles[0]": "Padding=0,0,0,0",
 	"controlStyles[0].styles[3]": "BorderThickness=0",
-	"controlStyles[0].styles[4]": "Background@ActiveNormal:=<ImageBrush Stretch=\"None\" AlignmentY='Center' AlignmentX='Center' ImageSource='C:\\Pictures\\Icons\\StartMenu_Icons\\StartButtonFullWhite_2.png' />",
-	"controlStyles[0].styles[5]": "Background@ActivePointerOver:=<ImageBrush Stretch=\"None\" AlignmentY='Center' AlignmentX='Center' ImageSource='C:\\Pictures\\Icons\\StartMenu_Icons\\StartButtonFullWhite_1.png' />",
-	"controlStyles[0].styles[6]": "Background@ActivePressed:=<ImageBrush Stretch=\"None\" AlignmentY='Center' AlignmentX='Center' ImageSource='C:\\Pictures\\Icons\\StartMenu_Icons\\StartButtonFullWhite_2.png' />"
+	"controlStyles[0].styles[4]": "Background@ActiveNormal:=<ImageBrush Stretch=\"None\" AlignmentY='Center' AlignmentX='Center' ImageSource='YOUR_DRIVE\\YOUR_PATH_HERE\\StartButtonFullWhite_2.png' />",
+	"controlStyles[0].styles[5]": "Background@ActivePointerOver:=<ImageBrush Stretch=\"None\" AlignmentY='Center' AlignmentX='Center' ImageSource='YOUR_DRIVE\\YOUR_PATH_HERE\\StartButtonFullWhite_1.png' />",
+	"controlStyles[0].styles[6]": "Background@ActivePressed:=<ImageBrush Stretch=\"None\" AlignmentY='Center' AlignmentX='Center' ImageSource='YOUR_DRIVE\\YOUR_PATH_HERE\\StartButtonFullWhite_2.png' />"
 }
