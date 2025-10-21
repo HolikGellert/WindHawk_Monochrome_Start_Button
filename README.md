@@ -11,11 +11,11 @@ The purpose of this project is to have a custom **Start Button** with **[Translu
 
 ![Preview 3](Images/StartButtonFullWhite_2.png)
 
-![Preview 1 Full](Images/PreviewFullWhite.png)
+![Preview 1 Full](Images/Preview_FullWhite.png)
 
-![Preview 1 Full](Images/PreviewFullWhite_1.png)
+![Preview 2 Full](Images/Preview_FullWhite_1.png)
 
-![Preview 1 Full](Images/PreviewFullWhite_2.png)
+![Preview 3 Full](Images/Preview_FullWhite_2.png)
 
 ## Features
 
